@@ -1,5 +1,3 @@
-**README.md**:
-
 # HR Analytics Insights
 
 This repository contains code and analysis for HR Analytics. The purpose is to provide insights and visualizations to aid in understanding various factors affecting employee performance and attrition.
